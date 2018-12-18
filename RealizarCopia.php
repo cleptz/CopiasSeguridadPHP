@@ -1,4 +1,6 @@
 <?php
+echo '<script>alert(<h2>"Este formulario es para copias de seguridad"</h2>)</script>   ';
+
 ?>
 <form action ="RealizarCopia.php" method="POST">
 <html>  
