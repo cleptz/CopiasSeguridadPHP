@@ -1,5 +1,5 @@
 <?php
-
+echo '<script>alert("Esto es una prueba de git")</script>   ';
 
 ?>
 
